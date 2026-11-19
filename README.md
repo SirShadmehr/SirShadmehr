@@ -23,21 +23,24 @@ I'm **Shadmehr** (a.k.a. [SirShadmehr](https://github.com/SirShadmehr)), a stude
 
 ## 🛠️ Tech Stack & Tools
 
+**Main stack:**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-**Favorite tools:** Jupyter Notebook 📓, Claude 🤝, ChatGPT 💬, Obsidian 🧠 (my second brain, literally called *Brain*)
+**Libraries I use in my projects:**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+**AI tools I build with:**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+
+**Favorite tools:** Jupyter Notebook 📓, Claude 🤝, ChatGPT 💬
 
 ---
 
@@ -45,10 +48,10 @@ I'm **Shadmehr** (a.k.a. [SirShadmehr](https://github.com/SirShadmehr)), a stude
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🎬 **Movie Recommendation System** | Suggests similar movies from a title using content-based filtering on the TMDB 5000 dataset. Netflix, but with fewer budget cuts. | Python, Pandas, scikit-learn, NLTK, Cosine Similarity |
-| 🛍️ **Customer Segmentation (K-Means)** | Groups mall customers by income and spending score, then turns clusters into marketing ideas. | Python, K-Means, Silhouette Score, Seaborn |
-| 💰 **Adult Income Classification** | Predicts whether a person earns more than $50K, comparing Logistic Regression, Random Forest and XGBoost with proper train/validation/test splits and threshold tuning. *(in progress 🏗️)* | scikit-learn, XGBoost, Pipelines |
-| 🌸 **Iris Flower Classification** | The classic "hello world" of ML, done properly: 5 models compared, SVM pipeline won with **93.33% test accuracy**. | SVM, StandardScaler, Joblib |
+| 🎬 **Movie Recommendation System** | Suggests similar movies from a title using content-based filtering on the TMDB 5000 dataset. Netflix, but with fewer budget cuts. | Python, Pandas, scikit-learn, Cosine Similarity |
+| 🛍️ **Customer Segmentation (K-Means)** | Groups mall customers by income and spending score, then turns clusters into marketing ideas. | Python, K-Means, Silhouette Score |
+| 💰 **Adult Income Classification** | Predicts whether a person earns more than $50K, comparing several models with proper train/validation/test splits and threshold tuning. *(in progress 🏗️)* | Python, scikit-learn, Pipelines |
+| 🌸 **Iris Flower Classification** | The classic "hello world" of ML, done properly: 5 models compared, SVM pipeline won with **93.33% test accuracy**. | Python, SVM, scikit-learn |
 
 ⭐ **Favorite:** the Movie Recommendation System, because it finally answers *"what should I watch tonight?"* (which, scientifically, takes me longer than training a model).
 
@@ -78,7 +81,6 @@ I'm **Shadmehr** (a.k.a. [SirShadmehr](https://github.com/SirShadmehr)), a stude
 - 📸 I'm a photographer, so yes, I will ask you to move two steps left for better light
 - 🤖 I run an Instagram page created with the help of AI
 - ♟️ I study chess every day, and I still blunder my queen regularly
-- 📓 I keep an Obsidian vault with notes on everything I learn
 - 🗣️ I'm learning **two** languages at once (my brain has a lot of tabs open)
 - 🎨 **Hobbies:** AI, photography, chess, drawing, reading, building things
 
