@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hey! I'm **Shadmehr** (a.k.a. [SirShadmehr](https://github.com/SirShadmehr)), a student from **Iran** 🇮🇷 passionate about **Artificial Intelligence, Machine Learning, and Photography**.
+Hey! I'm **Shadmehr** (a.k.a. [SirShadmehr](https://github.com/SirShadmehr)), a student from **Iran** 🇮🇷 passionate about **Artificial Intelligence, Machine Learning,**.
 
 - 🎓 Student by day, model trainer by night.
 - 🤖 Exploring AI and Machine Learning through hands-on projects.
